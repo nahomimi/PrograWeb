@@ -1,0 +1,140 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    color: #31084b;
+    font-size: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+td {
+    min-width: 60px;
+    min-height: 60px;
+}
+table {
+    margin: 0 auto;
+}
+p{
+    font-size: 15px;
+    text-align: left;
+}
+
+td:hover{
+    opacity: 50%;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.contenedor{
+    right: 0%;
+    left: 0%;
+    top: 0%;
+}
+
+.numero{
+    font-size: 9px;
+    text-align: right;
+    margin-right: 8px;
+}
+
+.nombre{
+    font-size: 8px;
+}
+
+.espacio{
+    background-color: #ffffff;
+    width: 30px;
+    height: 60px;
+    border: 3px solid white;
+}
+.salto{
+    background-color: #ffffff;
+    width: 60px;
+    height: 30px;
+    border: 3px solid white;
+}
+
+.letras{
+    background-color: #ffffff;
+    width: 170px;
+}
+
+.verde{
+    background-color: #afd749;
+    width: 60px;
+    height: 60px;
+    border: 3px solid white;
+}
+.rosa{
+    background-color: #f395df;
+    width: 60px;
+    height: 60px;
+    border: 3px solid white;
+    left: 750px;
+}
+.rojo{
+    color: #ffffff;
+    background-color: #cf0606;
+    width: 60px;
+    height: 70%;
+    border: 3px solid white;
+}
+.naranja{
+    color: #ffffff;
+    background-color: #f1ad01;
+    width: 60px;
+    height: 60px;
+    border: 3px solid white;
+}
+.azul{
+    color: #ffffff;
+    background-color: #1386d2;
+    width: 60px;
+    height: 60px;
+    border: 3px solid white;
+}
+
+.cielo{
+    background-color: #26d4e7;
+    width: 60px;
+    height: 60px;
+    border: 3px solid white;
+}
+
+.agua{
+    background-color: #0dd39b;
+    width: 60px;
+    height: 60px;
+    border: 3px solid white;
+}
+
+.lila{
+    background-color: #bd7fe3;
+    width: 60px;
+    height: 60px;
+    border: 3px solid white;
+}
+
+.amarillo{
+    background-color: #f6c902;
+    width: 60px;
+    height: 60px;
+    border: 3px solid white;
+}
+
+.gris{
+    background-color: #c0bebe;
+    width: 60px;
+    height: 60px;
+    border: 3px solid white;
+}
+
+
+
