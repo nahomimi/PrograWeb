@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0;
+}
+
+.header{
+    background-color: #5dd1ca;
+}
+.logo{
+    max-height: 80px;
+}
+
+.icon{
+    color: aliceblue;
+}
+
+span.tag.is-dark:hover{
+    background-color: rgba(19, 27, 27, 0.86);
+}
+
+
